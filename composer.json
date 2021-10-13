@@ -1,0 +1,11 @@
+{
+    "name": "zjalen/alipay-sdk-php-all",
+    "description": "支付宝开发平台 PHP 官方组件",
+    "authors": [
+        {
+            "name": "zjl",
+            "email": "zjalen@163.com"
+        }
+    ],
+    "require": {}
+}
